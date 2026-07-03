@@ -13,7 +13,7 @@ import Space from './components/space'
 
 function App() {
   return (
-    <div className="font-inter space-y-10">
+    <div className="font-inter ">
       <Navbar />
       <Hero />
      

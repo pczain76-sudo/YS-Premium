@@ -130,3 +130,7 @@ html {
     linear-gradient(90deg, rgba(212, 175, 55, 0.03) 1px, transparent 1px);
   background-size: 60px 60px;
 }
+/* Fixed navbar ke neeche section aaye — overlap na ho */
+section[id] {
+  scroll-margin-top: 5rem;
+}
